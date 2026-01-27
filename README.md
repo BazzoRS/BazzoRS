@@ -41,7 +41,7 @@ I'm an ABAP consultant focused on SAP integrations (PI/CPI), EDI, IDoc, RFC, and
 <br>
 
 ⏱️ **Contribution Streak**  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=BazzoRS&theme=dark&exclude_days=Sun)](https://git.io/streak-stats)
 
 ---
 
