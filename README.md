@@ -10,7 +10,7 @@ May the Code be with you, always. ⚔️
 ---
 
 🎯 **About Me**  
-I'm an ABAP consultant focused on SAP integrations (PI/CPI), EDI, IDoc, RFC, and REST/SOAP APIs. I have a solid technical background with experience in SAP Security and integrating SAP with non-SAP systems. I'm always eager to learn new technologies – currently diving into JavaScript and Salesforce (APEX).
+I'm an ABAP consultant focused on SAP integrations (PI/CPI), EDI, IDoc, RFC, and REST/SOAP APIs. I have a solid technical background with experience in SAP Security and integrating SAP with non-SAP systems. I'm always eager to learn new technologies – currently diving into JavaScript and C#.
 
 ---
 
@@ -20,7 +20,7 @@ I'm an ABAP consultant focused on SAP integrations (PI/CPI), EDI, IDoc, RFC, and
 - **SAP ABAP:** OO, RFC, IDoc, Smartforms, Enhancements
 - **Integrations:** SAP PI/PO, SAP CPI, EDI, XML, JSON
 - **Frontend:** SAP Fiori/UI5, HTML, CSS, JavaScript (in progress)
-- **Salesforce:** APEX (learning)
+- **.NET:** C# (learning)
 - **Others:** Git, Postman, Insomnia, VS Code
 
 ---
@@ -41,15 +41,14 @@ I'm an ABAP consultant focused on SAP integrations (PI/CPI), EDI, IDoc, RFC, and
 <br>
 
 ⏱️ **Contribution Streak**  
-[![GitHub Streak](https://streak-stats.demolab.com?user=bazzoRS&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 ---
 
 📚 **Currently Learning**
 - Modern JavaScript (ES6+)
-- SAP Fiori Elements & CAP
-- Salesforce APEX & LWC
-
+- SAP Fiori Elements CDS Views
+- Basics from C#
 ---
 
 🧘 **Jedi Wisdom**
