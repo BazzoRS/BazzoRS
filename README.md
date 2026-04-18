@@ -42,9 +42,6 @@ Currently expanding into modern development:
 ---
 
 ## 🏆 SAP Certifications
----
-
-## 🏆 SAP Certifications
 <p align="left">
   <a href="https://www.credly.com/badges/290e9d3d-55a6-4497-8f3c-e36f16b15796">
     <img src="https://images.credly.com/size/680x680/images/5489be1c-ce49-4cf3-8b24-eee50e5259be/blob" width="110"/>
